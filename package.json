@@ -1,5 +1,8 @@
 {
   "main": "index.js",
+  "scripts": {
+    "build": "npx typedoc"
+  },
   "devDependencies": {
     "typedoc": "^0.28.16"
   }
