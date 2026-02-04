@@ -1,0 +1,4 @@
+{
+  "name": "TypeDoc Array Extension Bug Report",
+  "entryPoints": ["./src/index.ts"]
+}
