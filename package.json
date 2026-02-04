@@ -1,0 +1,6 @@
+{
+  "main": "index.js",
+  "devDependencies": {
+    "typedoc": "^0.28.16"
+  }
+}
